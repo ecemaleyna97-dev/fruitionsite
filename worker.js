@@ -1,7 +1,8 @@
 /* CONFIGURATION STARTS HERE */
 
-/* Step 1: enter your domain name like fruitionsite.com */
-const MY_DOMAIN = "fruitionsite.com";
+/* Step 1: enter your domain name like "https://www.notion.so/xxxx"; */
+const MY_DOMAIN ="https://raspy-recorder-b2a.notion.site/PROJE-TAKIP-DASHBOARD-....";
+
 
 /*
  * Step 2: enter your URL slug to page ID mapping
